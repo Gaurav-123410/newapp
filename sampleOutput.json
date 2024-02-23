@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lee Ying Shan",
+            "title": "Japan stocks rise more than 2% as BoJ makes no change to yield range - CNBC",
+            "description": "Japan stocks lead gains in the region as the BoJ announced no change to its yield curve control policy.",
+            "url": "https://www.cnbc.com/2023/01/18/asia-pacific-shares-set-to-trade-flat-ahead-of-bank-of-japan-decision-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107179843-1673998440397-gettyimages-1243657231-JAPAN_TANKAN.jpeg?v=1673999044&w=1920&h=1080",
+            "publishedAt": "2023-01-18T07:59:00Z",
+            "content": "A recession probably won't start now until later in 2023 as consumer spending has been stronger than expected and the Federal Reserve eases up on the intensify of its interest rate hikes, according t… [+869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ruxandra Iordache",
+            "title": "UK inflation rate dips for second straight month to hit 10.5% - CNBC",
+            "description": "The core CPI, which excludes food, energy, alcohol and tobacco, was steady on the month at 6.3% in December, the ONS found.",
+            "url": "https://www.cnbc.com/2023/01/18/uk-inflation-rate-dips-for-second-straight-month-to-hit-10point5percent.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107138821-1666364847204-gettyimages-1435277244-dp1_4585_2739b4a4-bbd4-4ce8-8599-9ffe6f6beeab.jpeg?v=1674029878&w=1920&h=1080",
+            "publishedAt": "2023-01-18T07:12:52Z",
+            "content": "LONDON U.K. inflation eased on the month, in line with economists' expectations, as fuel, clothing and recreational costs dragged down the index.\r\nInflation softened to 10.5% in December, down from t… [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Rafael Nadal v Mackenzie McDonald Highlights | Australian Open 2023 Second Round - Australian Open TV",
+            "description": "Watch the highlights between Rafael Nadal and Mackenzie Mcdonald in the second round of the Australian Open 2023.Subscribe to keep up with the latest from th...",
+            "url": "https://www.youtube.com/watch?v=6oIT1RKeg2c",
+            "urlToImage": "https://i.ytimg.com/vi/6oIT1RKeg2c/maxresdefault.jpg",
+            "publishedAt": "2023-01-18T06:48:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "California News Today | Suspects In California 'Massacre' Of 6 Continues | Farming Community |News18 - CNN-News18",
+            "description": "California News Today | Suspects In California 'Massacre' Of 6 Continues | Farming Community |News18A shooter stood over a 16-year-old mother clutching her 1...",
+            "url": "https://www.youtube.com/watch?v=MfuVlrHuCRA",
+            "urlToImage": "https://i.ytimg.com/vi/MfuVlrHuCRA/maxresdefault_live.jpg",
+            "publishedAt": "2023-01-18T06:02:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Vivian Chow",
+            "title": "Family of Orange County lawyer found dead in Mexico speaks out, says he was the victim of ‘brutal crime’ - KTLA Los Angeles",
+            "description": "The family of an Orange County public defender who died in Mexico while celebrating his one-year wedding anniversary is speaking out on Tuesday, claiming his death was a “brutal crime.” Elliot Blair, 33, died early Saturday at Las Rocas Resort and Spa in Rosa…",
+            "url": "https://ktla.com/news/local-news/family-of-orange-county-lawyer-found-dead-in-mexico-speaks-out-says-he-was-the-victim-of-brutal-crime/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/01/Orange-County-Sheriffs-department-16.png?w=1280",
+            "publishedAt": "2023-01-18T05:26:15Z",
+            "content": "The family of an Orange County public defender who died in Mexico while celebrating his one-year wedding anniversary is speaking out on Tuesday, claiming his death was a “brutal crime.”\r\nElliot Blair… [+3789 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Saskya Vandoorne",
+            "title": "The world's oldest person, a French nun, dies at 118 - CNN",
+            "description": "French nun Sister André, the world's oldest known person, died on Tuesday at the age of 118 in the southern city of Toulon.",
+            "url": "https://www.cnn.com/2023/01/17/europe/france-oldest-person-world-dies-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230117174717-sister-andre-lucile-randon-file-021021.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-18T05:23:00Z",
+            "content": "French nun Sister André, the worlds oldest known person, died on Tuesday at the age of 118 in the southern city of Toulon.\r\nThe citys mayor, Hubert Falco, announced the news of her death on Twitter, … [+1405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Sami Fathi",
+            "title": "Apple's Website Suggests M2 and M2 Pro Mac Announcements Were Originally Set for Fall 2022 - MacRumors",
+            "description": "Information embedded within Apple's website suggests that this week's new Mac announcements, including the M2 Pro and M2 Max chips, were...",
+            "url": "https://www.macrumors.com/2023/01/18/apple-hints-m2-macs-in-2022/",
+            "urlToImage": "https://images.macrumors.com/t/ENUxq3xBCYWdt2w4W6_Q6h3z-wQ=/2500x/article-new/2023/01/Apple-MacBook-Pro-M2-Feature-Blue-Green.jpg",
+            "publishedAt": "2023-01-18T05:02:05Z",
+            "content": "Information embedded within Apple's website suggests that this week's new Mac announcements, including the M2 Pro and M2 Max chips, were initially set to be unveiled in October or November of last ye… [+2468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Lynette Rice",
+            "title": "‘New Amsterdam’ Series Finale: Exec Producer Peter Horton Says “It’s A Mystery As To Why It Was Canceled” - Deadline",
+            "description": "SPOILER ALERT! This story contains plots points from the series finale of New Amsterdam. So long, good doctors of New Amsterdam: The drama about an old public hospital from creator/executive produc…",
+            "url": "https://deadline.com/2023/01/new-amsterdam-series-finale-exec-producer-peter-horton-cancellation-1235224784/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/11/NUP_198863_00167.jpg?w=1000",
+            "publishedAt": "2023-01-18T04:00:00Z",
+            "content": "SPOILER ALERT! This story contains plots points from the series finale of New Amsterdam.\r\nSo long, good doctors of New Amsterdam: The drama about an old public hospital from creator/executive produce… [+5013 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Greta Thunberg detained by police at German coal protest - Axios",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzAxLzE3L2dyZXRhLXRodW5iZXJnLWRldGFpbmVkLWdlcm1hbnktY29hbC1taW5lLXByb3Rlc3TSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-18T03:56:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Wehner",
+            "title": "Canadian woman who crashed car into home after Marilyn Manson concert sues venue for serving her alcohol - Fox News",
+            "description": "A Canadian woman who drove home drunk in 2019 and crashed into a home, causing the gas line to rupture and the house to explode, is suing the concert venue that served her alcohol",
+            "url": "https://www.foxnews.com/world/canadian-woman-crashed-car-home-marilyn-manson-concert-sues-venue-serving-alcohol",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/london-ontario2.jpg",
+            "publishedAt": "2023-01-18T03:17:00Z",
+            "content": "A Canadian woman who in 2019 drove drunk, lost control of her car, and crashed into a house, igniting a massive gas explosion that devastated a neighborhood in London, Ontario is suing the concert ve… [+1873 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Amy Gardner, Dan Rosenzweig-Ziff",
+            "title": "Solomon Peña's plot to shoot Democrats' homes was motivated by false claims of a stolen election, New Mexcico authorities say - The Washington Post",
+            "description": "Solomon Peña, a defeated candidate for the state legislature, paid people to fire on the houses of four Democratic office-holders, authorities say.",
+            "url": "https://www.washingtonpost.com/politics/2023/01/17/solomon-pea-shooting-new-mexico/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5NITRDEWB4I63ILTMHQFL3BE54.jpg&w=1440",
+            "publishedAt": "2023-01-18T02:39:40Z",
+            "content": "Comment on this story\r\nThe arrest of a defeated candidate for the New Mexico legislature on charges that he orchestrated a plot to shoot up the homes of four Democratic officials in Albuquerque promp… [+9787 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Maurice Moton",
+            "title": "Predicting the Biggest NFL Trades That Could Shape the 2023 Offseason - Bleacher Report",
+            "description": "NFL teams can\nshake up the offseason with blockbuster trades that alter the plans of other\nclubs going into the free agency and the draft. In the coming...",
+            "url": "https://bleacherreport.com/articles/10061642-predicting-the-biggest-nfl-trades-that-could-shape-the-2023-offseason",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1673849886/kc3ow0ldlxwcwwkrwvrd.jpg",
+            "publishedAt": "2023-01-18T02:38:19Z",
+            "content": "DeAndre HopkinsNorm Hall/Getty Images\r\nLast year, we saw the wide receiver market explode as Tyreek Hill, Davante Adams and A.J. Brown signed contracts worth $25-plus million with new clubs after blo… [+2544 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Apple Postpones AR Glasses, Plans Cheaper Mixed-Reality Headset - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=efe9f05e-96db-11ed-a2c2-5253714f625a&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMS0xOC9hcHBsZS1wb3N0cG9uZXMtYXItZ2xhc3Nlcy1wbGFucy1jaGVhcGVyLW1peGVkLXJlYWxpdHktaGVhZHNldA==",
+            "urlToImage": null,
+            "publishedAt": "2023-01-18T02:21:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Brandon Staley keeps job, Tom Brady and Aaron Rodgers undecided on future | The Insiders - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=GjCy0mKn1HU",
+            "urlToImage": "https://i.ytimg.com/vi/GjCy0mKn1HU/maxresdefault.jpg",
+            "publishedAt": "2023-01-18T01:40:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Weizhen Tan",
+            "title": "Thinking of jumping back into Big Tech? This investor is wary of 2 stocks in particular - CNBC",
+            "description": "Fund manager Trent Masters says some Big Tech stocks might be worth avoiding for now.",
+            "url": "https://www.cnbc.com/2023/01/18/thinking-of-going-back-to-tech-investor-is-wary-of-2-big-tech-stocks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107176651-1673370154775-NUP_200112_10050.jpg?v=1674004336&w=1920&h=1080",
+            "publishedAt": "2023-01-18T01:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Levenson, Jason Carroll",
+            "title": "Arrest warrant charges Brian Walshe with murder in the death of his wife Ana Walshe - CNN",
+            "description": "An arrest warrant charging Brian Walshe with murder was issued Tuesday in the death of his wife Ana Walshe, a Massachusetts mother of three who had been missing since the new year, Norfolk District Attorney Michael Morrissey announced.",
+            "url": "https://www.cnn.com/2023/01/17/us/brian-walshe-arrested-ana-walshe-missing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230109113621-01-brian-walshe-court-0109.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-18T01:01:00Z",
+            "content": "An arrest warrant charging Brian Walshe with murder was issued Tuesday in the death of his wife Ana Walshe, a Massachusetts mother of three who had been missing since the new year, Norfolk District A… [+4588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Liz Navratil",
+            "title": "Art instructor who showed images of Prophet Muhammad in class sues Hamline University; school officials say calling it Islamophobic was flawed - Star Tribune",
+            "description": "The university's president and board chair said in a joint statement that they had \"learned much\" about Islam.",
+            "url": "https://www.startribune.com/art-instructor-who-showed-images-of-prophet-muhammad-in-class-sues-hamline-university/600244244/",
+            "urlToImage": "https://chorus.stimg.co/24357779/merlin_69605745.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2023-01-18T00:27:20Z",
+            "content": "A former art instructor who showed images of the Prophet Muhammad in class has sued Hamline University, saying administrators defamed her and reneged on an offer to teach in the spring semester.\r\nAtt… [+4763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Update: Search moves towards bodies of water for missing Cyril girl - KFOR Oklahoma's News 4",
+            "description": "The search for 4-year old Athena Brownfield, a missing Cyril girl continues as police officials confirm they are now moving the search towards bodies of wate...",
+            "url": "https://www.youtube.com/watch?v=kN-k1cIHyjs",
+            "urlToImage": "https://i.ytimg.com/vi/kN-k1cIHyjs/maxresdefault.jpg",
+            "publishedAt": "2023-01-18T00:11:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Evan Perez, Paula Reid, Jamie Gangel",
+            "title": "Federal investigators interviewed Biden attorney who initially discovered classified documents - CNN",
+            "description": "Among the multiple interviews by federal investigators in the initial review of President Joe Biden's handling of classified documents was his personal attorney Patrick Moore, sources familiar with the matter told CNN.",
+            "url": "https://www.cnn.com/2023/01/17/politics/patrick-moore-attorney-interviewed-biden-classified-documents/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230117154524-biden-departs-white-houise-0113.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-18T00:02:00Z",
+            "content": "Among the multiple interviews by federal investigators in the initial review of President Joe Bidens handling of classified documents was his personal attorney Patrick Moore, sources familiar with th… [+1761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Angie Orellana Hernandez",
+            "title": "Here’s Who Will Inherit Elvis Presley’s Graceland After Lisa Marie Presley’s Death - E! NEWS",
+            "description": "New details have emerged on who will take ownership of Elvis Presley's Graceland mansion following Lisa Marie Presley's death at age 54 on Jan. 12.",
+            "url": "https://www.eonline.com/news/1361745/heres-who-will-inherit-elvis-presleys-graceland-after-lisa-marie-presleys-death",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023017/rs_1200x1200-230117144941-1200-Lisa_Marie_Presley-Graceland_mansion-gj.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-01-17T23:44:00Z",
+            "content": "The fate of Elvis Presley's Graceland mansion has been revealed.\r\nThe Memphis, Tenn. estate will be inherited by Lisa Marie Presley's three daughtersRiley Keough and Harper and Finley Lockwoodfollowi… [+724 chars]"
+        }
+    ]
+}
+
